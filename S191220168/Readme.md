@@ -10,9 +10,15 @@ A：首先在SteganographyFactory.java中运行main，主要是通过encodeFile�
 
 使用选择排序得到的图片:
 
+![](https://raw.githubusercontent.com/jwork-2021/jw03-kiaye/main/example.SelectSorter.png)
 
+使用快速排序得到的图片：
+
+![](https://raw.githubusercontent.com/jwork-2021/jw03-kiaye/main/example.QuickSorter.png)
 
 3.
+
+第一次得到快速排序，第二次得到选择排序，结果如下。
 
 [![asciicast](https://asciinema.org/a/oZOmQg5l111yEtmRd2cvz2aKe.svg)](https://asciinema.org/a/oZOmQg5l111yEtmRd2cvz2aKe)
 
@@ -20,8 +26,8 @@ A：首先在SteganographyFactory.java中运行main，主要是通过encodeFile�
 
 从同学那里得到图片得到图片https://github.com/jwork-2021/jw03-EnxIII/blob/main/191220053/SteganographyPics/example.QuickSorter.png
 
-成功
+得到了快速排序，结果是正确的。
 
-
+视频如下：
 
 [![asciicast](https://asciinema.org/a/wUCK5CvSHlvw1hRnklBXX2Oau.svg)](https://asciinema.org/a/wUCK5CvSHlvw1hRnklBXX2Oau)
