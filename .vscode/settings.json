@@ -1,5 +1,6 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
+        "F:\\course\\java\\homework\\jw03-kiaye\\lib\\commons-io-2.11.0.jar",
     ]
 }
